@@ -25,13 +25,13 @@ export function Skills() {
     {
       title: 'Backend',
       icon: Server,
-      skills: ['Node.js', 'Express', 'REST APIs',  'Microservices'],
+      skills: ['Node.js', 'Express','Nest JS', 'REST APIs',  'Microservices'],
       color: 'text-green-600',
     },
     {
       title: 'Database & ORM',
       icon: Database,
-      skills: ['MongoDB', 'PostgreSQL', 'MySQL','TypeORM'],
+      skills: ['MongoDB', 'PostgreSQL', 'MySQL','TypeORM','Sequelize'],
       color: 'text-purple-600',
     },
    
